@@ -19,7 +19,7 @@ import {
   Globe2,
   Cpu
 } from "lucide-react";
-import portraitImg from "../assets/images/ahsan_about_portrait_1785125880301.jpg";
+import portraitImg from "../assets/images/ahsan_about_portrait_1785125880301.png";
 import { useAppStore } from "../store/useAppStore";
 import { playClickSound, playHoverSound } from "../utils/audio";
 
