@@ -1,0 +1,6 @@
+{
+  "name": "Ahsan Durrani — Digital Experience Portfolio",
+  "description": "Futuristic interactive portfolio for Ahsan Durrani, Senior Web Developer & Digital Solution Engineer featuring AI Chatbot, 3D Virtual Workspace, Developer Mini-Games, and interactive project showcases.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
